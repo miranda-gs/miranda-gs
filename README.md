@@ -46,9 +46,6 @@
 ---
 
 
-
----
-
 ### 🤝 Siga-me no Linkedin
 
 <p align="center">
