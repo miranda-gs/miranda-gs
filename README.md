@@ -3,13 +3,13 @@
 <h3 align="center">Desenvolvedor de Software | Transformando café em código ☕➡️👨‍💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+com+Java+%26+Spring+Boot;Curtindo+resolver+problemas+complexos;Sempre+aprendendo+algo+novo;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+com+Java+%26+Spring+Boot;Curtindo+resolver+problemas+complexos;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 Sobre mim
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela FAESA e cursando Sistemas de Informação na UFES.
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela **FAESA** e cursando **Sistemas de Informação** na **UFES**.
 - 🔭 Trabalho principalmente com **Java** e **Spring Boot**, construindo aplicações robustas e escaláveis
 - 📈 Tenho interesse especial em **escalabilidade e alta performance**, e gosto de entender o que acontece "por trás" de um sistema quando ele precisa de ser escalável para múltiplos usuários
 - 🐧 Tenho intimidade com **Linux**, tanto no dia a dia quanto em ambientes de produção
