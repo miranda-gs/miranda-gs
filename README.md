@@ -10,7 +10,6 @@
 
 ### 🚀 Sobre mim
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela FAESA e cursando Sistemas de Informação na UFES.
-- 🐧 Entusiasta de Linux e software livre.
 - 🔭 Trabalho principalmente com **Java** e **Spring Boot**, construindo aplicações robustas e escaláveis
 - 📈 Tenho interesse especial em **escalabilidade e alta performance**, e gosto de entender o que acontece "por trás" de um sistema quando ele precisa de ser escalável para múltiplos usuários
 - 🐧 Tenho intimidade com **Linux**, tanto no dia a dia quanto em ambientes de produção
